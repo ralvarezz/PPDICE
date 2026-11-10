@@ -1,0 +1,5 @@
+scipy~=1.18.1
+spectral_cube~=0.7.0
+matplotlib~=3.10.9
+astropy~=8.0.2
+numpy~=2.5.3
